@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Replace YOUR-DOMAIN with your actual domain once live, e.g. builtwithmates.com.au -->
+
+  <url>
+    <loc>https://YOUR-DOMAIN/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Section anchors — listed for reference, search engines index the main URL -->
+  <!-- #about     — Who We Are -->
+  <!-- #services  — What We Offer -->
+  <!-- #pricing   — Transparent Pricing -->
+  <!-- #team      — The Team -->
+  <!-- #community — Community Builds + EOI Form -->
+  <!-- #enquiry   — Get a Quote / Contact Form -->
+
+</urlset>

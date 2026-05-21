@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 56" width="260" height="56">
+  <!-- LEGO-style brick icon -->
+  <!-- Brick body -->
+  <rect x="4" y="24" width="36" height="22" rx="4" fill="#DA291C"/>
+  <!-- 3 studs evenly spaced in 36px brick -->
+  <rect x="7"  y="15" width="8" height="10" rx="2.5" fill="#DA291C"/>
+  <rect x="18" y="15" width="8" height="10" rx="2.5" fill="#DA291C"/>
+  <rect x="29" y="15" width="8" height="10" rx="2.5" fill="#DA291C"/>
+
+  <!-- Wordmark -->
+  <!-- "Built with" — dark brown, light weight -->
+  <text
+    x="50" y="31"
+    font-family="Georgia, 'Playfair Display', serif"
+    font-size="17"
+    font-weight="400"
+    fill="#3D2B1F"
+    letter-spacing="0.01em">Built with</text>
+  <!-- "Mates" — LEGO red, bold -->
+  <text
+    x="50" y="49"
+    font-family="Georgia, 'Playfair Display', serif"
+    font-size="22"
+    font-weight="700"
+    fill="#DA291C"
+    letter-spacing="0.01em">Mates</text>
+</svg>
